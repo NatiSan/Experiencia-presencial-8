@@ -1,0 +1,27 @@
+.letra{
+	color: #443e3e;
+}
+.fondo-jumbotron{
+	background-image: url("images/bg.jpeg");
+	color: white;
+}
+.container{padding: 10;
+
+}
+
+.border-card{
+	border: silver solid 7px;
+	padding: 0;
+}
+.logo{
+	width: 200px;
+}
+.border-b{
+	border: grey solid 1px;
+}
+.letra-celeste{
+	color: #11b2db;
+}
+.margen-boton{
+	margin-left: 5px;
+}
