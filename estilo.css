@@ -4,24 +4,30 @@
 .fondo-jumbotron{
 	background-image: url("images/bg.jpeg");
 	color: white;
+	font-size: 2.5rem;
+	padding: 5px;
 }
 .fondo-jumbotron2{
 	background-color: #242622;
 	color: white;
 	height: 70px;
-	padding: 15px;
+	padding: 12px;
 	margin-bottom: 0;
 }
-.container{padding: 10;
 
+.informacion{
+	border-top: 1px solid silver;
+	border-bottom: 1px solid silver;
+}
+.contacto{
+background-color: white;
+}
+.container{
+	padding: 10;
 }
 
-.border-card{
-	border: silver solid 7px;
-	padding: 0;
-}
 .logo{
-	width: 200px;
+	width: 150px;
 }
 .border-b{
 	border: grey solid 1px;
@@ -39,5 +45,9 @@
 	font-size: 14px;
 }
 .aire{
-	padding: 0 150px 0 150px;
+	
+}
+.imagen{
+	max-width: 100%;
+
 }
