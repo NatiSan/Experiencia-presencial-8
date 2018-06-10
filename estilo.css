@@ -5,6 +5,13 @@
 	background-image: url("images/bg.jpeg");
 	color: white;
 }
+.fondo-jumbotron2{
+	background-color: #242622;
+	color: white;
+	height: 70px;
+	padding: 15px;
+	margin-bottom: 0;
+}
 .container{padding: 10;
 
 }
@@ -23,11 +30,14 @@
 	color: #11b2db;
 }
 .margen-boton{
-	margin-left: 5px;
+	margin: 5px;
 }
-.letra-pie{
-	font-size: 6px;
+.letra-m{
+	font-size: 16px;
 }
-.flotar{
-	float: left;
+.letrita{
+	font-size: 14px;
+}
+.aire{
+	padding: 0 150px 0 150px;
 }
